@@ -4,7 +4,7 @@ While working on a web development project at Space-O Technologies, one of my re
 
 I have created a demo on it and written a tutorial [How to Import CSV Into MySQL Database With PHP](https://www.spaceotechnologies.com/import-csv-mysql-database/).
 
-If you face any issue implementing it, you can contact me for help. Also, if you want to implement this feature in your iOS app and looking to [hire swift developer](
-http://www.spaceotechnologies.com/hire-swift-developer/ ) to help you, then you can contact Space-O Technologies for the same.
+If you face any issue implementing it, you can contact me for help. Also, if you want to implement this feature in your iOS app and looking to [hire PHP developer](
+http://www.spaceotechnologies.com/hire-php-developer/ ) to help you, then you can contact Space-O Technologies for the same.
 
 
